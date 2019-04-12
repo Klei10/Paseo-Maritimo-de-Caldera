@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaseoMaritimoCaldera2", "PaseoMaritimoCaldera2\PaseoMaritimoCaldera2.csproj", "{B0B2B0F7-A596-478F-B1F9-FDB16F393EB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capa_Presentacion", "Capa_Presentacion\Capa_Presentacion.csproj", "{2FC68E7E-5E0E-419B-8FDD-172B442D1FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0B2B0F7-A596-478F-B1F9-FDB16F393EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B2B0F7-A596-478F-B1F9-FDB16F393EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B2B0F7-A596-478F-B1F9-FDB16F393EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B2B0F7-A596-478F-B1F9-FDB16F393EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC68E7E-5E0E-419B-8FDD-172B442D1FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC68E7E-5E0E-419B-8FDD-172B442D1FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC68E7E-5E0E-419B-8FDD-172B442D1FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC68E7E-5E0E-419B-8FDD-172B442D1FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {380495C1-C84A-43A1-96E1-5BB5DF557329}
+	EndGlobalSection
+EndGlobal

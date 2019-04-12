@@ -1,0 +1,14 @@
+C:\Users\Kleiton\Desktop\PaseoMaritimoCaldera2\Capa_Presentacion\bin\Debug\Capa_Presentacion.dll
+C:\Users\Kleiton\Desktop\PaseoMaritimoCaldera2\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\Kleiton\Desktop\PaseoMaritimoCaldera2\Capa_Presentacion\obj\Debug\Capa_Presentacion.csprojAssemblyReference.cache
+C:\Users\Kleiton\Desktop\PaseoMaritimoCaldera2\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\Kleiton\Desktop\PaseoMaritimoCaldera2\Capa_Presentacion\obj\Debug\Capa_Presentacion.CtrLogo.resources
+C:\Users\Kleiton\Desktop\PaseoMaritimoCaldera2\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\Kleiton\Desktop\PaseoMaritimoCaldera2\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Kleiton\Desktop\PaseoMaritimoCaldera2\Capa_Presentacion\obj\Debug\Capa_Presentacion.dll
+C:\Users\Kleiton\Desktop\PaseoMaritimoCaldera2\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\Kleiton\Desktop\PaseoMaritimoCaldera2\Capa_Presentacion\obj\Debug\Capa_Presentacion.CtrInicioSesion.resources
+C:\Users\Kleiton\Desktop\PaseoMaritimoCaldera2\Capa_Presentacion\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kleiton\Desktop\PaseoMaritimoCaldera2\Capa_Presentacion\bin\Debug\MetroFramework.dll
+C:\Users\Kleiton\Desktop\PaseoMaritimoCaldera2\Capa_Presentacion\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kleiton\Desktop\PaseoMaritimoCaldera2\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CopyComplete
